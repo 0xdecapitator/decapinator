@@ -23,12 +23,6 @@ Here are some ideas to get you started: -->
 [<img align="left" alt="eddybounasr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-<div align="center">
-  <i><b>Github Stats</b></i>
-  <br/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
-</div>
-
 [website]: https://eddybounasr.github.io/portfolio
 [twitter]: https://twitter.com/Edmondbn91
 [instagram]: https://www.instagram.com/eddybounasr/
