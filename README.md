@@ -12,9 +12,9 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning `Python`
 - 👯 I’m looking to collaborate with `OpenMined`
 - 🤔 I’m looking for help with `Huggingface Transformers` and `Competitive Programming`
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, Except Litterature :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-- ⚡ Fun fact: I waste most of my time on trading crypto
+- ⚡ Fun fact: I waste most of my time on Games
 
 ### Connect with me:
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
