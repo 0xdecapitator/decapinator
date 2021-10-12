@@ -10,12 +10,11 @@ Here are some ideas to get you started: -->
  
 - 🔭 I’m currently working on `MERN Stack Development`
 - 🌱 I’m currently learning `Python`
-- 👯 I’m looking to collaborate with `OpenMined`
-- 🤔 I’m looking for help with `Huggingface Transformers` and `Competitive Programming`
+- 👯 I’m working with Cryptoware Me
+- 🤔 I’m looking for help with DeLotto and DeSale
 - 💬 Ask me about anything, Except Litterature :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-- ⚡ Fun fact: I waste most of my time on Games
-
+- 
 ### Connect with me:
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="eddybounasr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
