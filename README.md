@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Eddy Bou Nasr</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Decapinator.eth </h1>
 
 <!--
 **eddybounasr/eddybounasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -8,10 +8,10 @@ Here are some ideas to get you started: -->
 
  <br/>
  
-- 🔭 I’m currently working on `MERN Stack Development`
-- 🌱 I’m currently learning `Python`
+- 🔭 I’m Blockchain Engineer
+- 🌱 I’m currently learning `Rust`
 - 👯 I’m working with Cryptoware Me
-- 🤔 I’m looking for help with DeLotto and DeSale
+- 🤔 I’m looking for help building NFT CEX
 - 💬 Ask me about anything, Except Litterature :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - 
@@ -23,6 +23,6 @@ Here are some ideas to get you started: -->
 <br />
 
 [website]: https://eddybounasr.github.io/portfolio
-[twitter]: https://twitter.com/Edmondbn91
-[instagram]: https://www.instagram.com/eddybounasr/
-[linkedin]: https://www.linkedin.com/in/fullstack-edmond/
+[twitter]: https://twitter.com/decapinator
+[instagram]: https://www.instagram.com/decapinator/
+[linkedin]: https://www.linkedin.com/in/edmond-bou-nasr
