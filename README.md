@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
  
 - 🔭 I’m Blockchain Engineer
 - 🌱 I’m currently learning `Rust`
-- 👯 Software Lead | Blockchain at [Cryptoware Me](https://cryptoware.me)
+- 👯 Software Lead | Blockchain at [Stitchain](http://www.stitchain.com/)
 - 🤔 I’m looking for help building NFT CEX
 - 🔏 Bug bounty hunter in free time
 -  ☕ Coffee lover, turning it into code, [decapinator.eth]()
