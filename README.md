@@ -1,24 +1,21 @@
-<h1 align="left">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Decapinator.eth </h1>
+<h1 align="left">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm 0xdecapitator.eth </h1>
 
-<!--
-**eddybounasr/eddybounasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-Here are some ideas to get you started: -->
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/decapinator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edmond-bou-nasr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://x.com/0xdecapitator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edmond-bou-nasr) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Lebanese+Software+Engineer;Open-Source+Developer+Advocate;Blockchain+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
- 
-- 🔭 I’m Blockchain Engineer
-- 🌱 I’m currently learning `Rust`
-- 👯 Software Lead | Blockchain at [Rektstudios](http://www.rektstudios.com/)
-- 🤔 I’m looking for help building NFT CEX
-- 🔏 Bug bounty hunter in free time
--  ☕ Coffee lover, turning it into code, [decapinator.eth]()
-- 💬 Ask me about anything, Except Litterature :sweat_smile:
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-- 💡 [Learn more about me](https://decapinator.github.io/portfolio)
+
+Hi there! 👋 I'm 0xdecapitator
+  🔭 Senior Blockchain Engineer | Leading team at [Rektstudios](http://www.rektstudios.com/)
+  🌱 Currently diving deep into Rust 🦀
+  💡 Building innovative Web3 solutions and beyond 🚀
+  🤔 Looking for collaborators on NFT CEX projects 💎
+  🔏 Bug Bounty Hunter in my spare time, always chasing vulnerabilities 🔍
+  ☕ Coffee-fueled coding sessions ☕ - 0xdecapitator.eth
+  💬 Ask me anything about Blockchain, Web3, GameFi... except Literature 😅
+  👨‍💻 Life Hack: Continuously learn new tech 🔥 and share the knowledge 🎉
+  📝 [Learn more about me](https://0xdecapitator.github.io/portfolio)
 
 <br/>
 
@@ -30,4 +27,4 @@ Here are some ideas to get you started: -->
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=decapinator&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xdecapitator&theme=dark&background=000000)](https://git.io/streak-stats)
