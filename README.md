@@ -7,15 +7,15 @@
 <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
 
 Hi there! 👋 I'm 0xdecapitator
-  🔭 Senior Blockchain Engineer | Leading team at [Rektstudios](http://www.rektstudios.com/)
-  🌱 Currently diving deep into Rust 🦀
-  💡 Building innovative Web3 solutions and beyond 🚀
-  🤔 Looking for collaborators on NFT CEX projects 💎
-  🔏 Bug Bounty Hunter in my spare time, always chasing vulnerabilities 🔍
-  ☕ Coffee-fueled coding sessions ☕ - 0xdecapitator.eth
-  💬 Ask me anything about Blockchain, Web3, GameFi... except Literature 😅
-  👨‍💻 Life Hack: Continuously learn new tech 🔥 and share the knowledge 🎉
-  📝 [Learn more about me](https://0xdecapitator.github.io/portfolio)
+ - 🔭 Senior Blockchain Engineer | Leading team at [Rektstudios](http://www.rektstudios.com/)
+ - 🌱 Currently diving deep into Rust 🦀
+ - 💡 Building innovative Web3 solutions and beyond 🚀
+ - 🤔 Looking for collaborators on NFT CEX projects 💎
+ - 🔏 Bug Bounty Hunter in my spare time, always chasing vulnerabilities 🔍
+ - ☕ Coffee-fueled coding sessions ☕ - 0xdecapitator.eth
+ - 💬 Ask me anything about Blockchain, Web3, GameFi... except Literature 😅
+ - 👨‍💻 Life Hack: Continuously learn new tech 🔥 and share the knowledge 🎉
+ - 📝 [Learn more about me](https://0xdecapitator.github.io/portfolio)
 
 <br/>
 
